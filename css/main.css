@@ -1,0 +1,31 @@
+/*Style Sheet
+https://kuler.adobe.com/Copy-of-itdesign-color-theme-4305245/
+Grey = #403939
+Teal = #024959
+Cyan = #037E8C
+White = #FFFFFF
+Orange = #F24C27
+*/
+#intro {
+ 	/*display: table;
+	width: 100%;
+	height: auto;
+	padding: 100px 0;
+	text-align: center;
+	color: #000;
+	background-image: url(../assets/professional-life.jpg) no-repeat bottom center scroll
+	--webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+	*/
+	margin-bottom: 100px;
+	background-image: url(../assets/map.jpg);
+	background-position: 0% 25%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+	padding: 350px 100px;
+	width: 100%;
+	height: auto;
+}
